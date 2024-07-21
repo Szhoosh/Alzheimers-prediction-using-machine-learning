@@ -1,6 +1,6 @@
 # Alzheimer's Disease Prediction App
 
-This Streamlit app predicts the likelihood of Alzheimer's Disease based on patient information and a trained machine learning model witha aim to provide a user-friendly interface for predicting the likelihood of Alzheimer's Disease. The prediction is based on a machine learning model trained on a dataset from Kaggle. You can find the dataset [here](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset).
+This Streamlit app predicts the likelihood of Alzheimer's Disease based on patient information and a trained machine learning model with a aim to provide a user-friendly interface for predicting the likelihood of Alzheimer's Disease. The prediction is based on a machine learning model trained on a dataset from Kaggle. You can find the dataset [here](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset).
 
 ## Features
 
