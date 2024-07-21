@@ -21,7 +21,8 @@ Requirements:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/alzheimers-prediction-app.git
+    git clone https://github.com/Szhoosh/Alzheimers-prediction-using-machine-learning.git
+
     cd alzheimers-prediction-app
     ```
 
@@ -35,7 +36,7 @@ Requirements:
 
 4. Place your trained model file in the specified directory (if not already present):
     ```plaintext
-    C:\PathToYourDirectory\Alzheimers predictor\ML_MODEL\My_decision_tree_model.pkl
+    C:\PathToYourDirectory\Alzheimers-prediction-using-machine-learning\ML_MODEL\My_decision_tree_model.pkl
     ```
 
 ## Usage
