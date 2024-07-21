@@ -54,9 +54,13 @@ Requirements:
 
 ## File Structure
 
-```plaintext
 alzheimers-prediction-app/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-└── ... (other files and directories)
+├── Data_sets/
+│   ├── alzheimers_disease_data.csv
+│   └── filtered_data.csv
+└── ML_MODEL/
+    ├── My_decision_tree_model.pkl
+    └── My_LOGREG_model.pkl
