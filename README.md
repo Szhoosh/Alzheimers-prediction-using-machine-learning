@@ -54,6 +54,10 @@ Requirements:
 
 ## File Structure
 
+
+## File Structure
+
+```plaintext
 alzheimers-prediction-app/
 ├── app.py
 ├── requirements.txt
