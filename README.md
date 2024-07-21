@@ -23,7 +23,7 @@ Requirements:
     ```bash
     git clone https://github.com/Szhoosh/Alzheimers-prediction-using-machine-learning.git
 
-    cd alzheimers-prediction-app
+    cd Alzheimers-prediction-using-machine-learning
     ```
 
 2. Open cmd prompt
