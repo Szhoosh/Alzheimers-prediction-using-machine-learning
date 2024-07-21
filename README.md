@@ -11,12 +11,14 @@ This Streamlit app predicts the likelihood of Alzheimer's Disease based on patie
 ## Installation
 
 Requirements:
+```plaintext
   Python 3.7 or higher
   Streamlit
   pandas
   joblib
   matplotlib
   seaborn
+  ```
 
 1. Clone the repository:
 
