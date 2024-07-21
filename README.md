@@ -20,7 +20,9 @@ Requirements:
   seaborn
   ```
 
-1. Clone the repository:
+1. Open cmd prompt
+   
+2. Clone the repository:
 
     ```bash
     git clone https://github.com/Szhoosh/Alzheimers-prediction-using-machine-learning.git
@@ -28,7 +30,6 @@ Requirements:
     cd Alzheimers-prediction-using-machine-learning
     ```
 
-2. Open cmd prompt
 
 3. Install the required packages:
 
