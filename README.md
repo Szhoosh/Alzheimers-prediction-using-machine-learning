@@ -52,8 +52,6 @@ Requirements:
 3. Fill in the patient information and click on the `Predict` button to see the results.
 
 
-## File Structure
-
 
 ## File Structure
 
